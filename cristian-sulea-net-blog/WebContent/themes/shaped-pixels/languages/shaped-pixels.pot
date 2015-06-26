@@ -1,0 +1,713 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shaped Pixels Pro\n"
+"POT-Creation-Date: 2015-03-03 13:52-0800\n"
+"PO-Revision-Date: 2015-03-03 13:52-0800\n"
+"Last-Translator: Shaped Pixels <mail@address>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Unfortunately, the page you were hoping to find is not here. It may be a "
+"deleted page or an error on our part. Please try searching again, or use the "
+"main menu at the top to go to another part of our website."
+msgstr ""
+
+#: author.php:39
+msgid "Articles by"
+msgstr ""
+
+#: comments.php:24
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:24
+msgid " Comment "
+msgstr ""
+
+#: comments.php:24
+msgid " Comments "
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:52
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:67
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:68
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:70
+msgid "Submit"
+msgstr ""
+
+#: comments.php:71
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:75
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:76
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:77
+msgid "Website"
+msgstr ""
+
+#: content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-search.php:18 inc/template-tags.php:175 inc/template-tags.php:181
+msgid ", "
+msgstr ""
+
+#: content-search.php:22
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-status.php:14
+msgid "UPDATE: "
+msgstr ""
+
+#: content.php:21 content.php:61
+msgid "Featured"
+msgstr ""
+
+#: content.php:24 content.php:29 content.php:64 content.php:69
+msgid "Untitled"
+msgstr ""
+
+#: content.php:45 content.php:49 content.php:84 content.php:88
+#: inc/extras.php:130
+msgid "Read More"
+msgstr ""
+
+#: footer.php:42
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:43
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:80
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:82
+msgid "Social Menu"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:40
+msgid "Menu"
+msgstr ""
+
+#: image.php:39
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid ""
+"I recommend a logo up to 450px in width and up to 67px in height so that it "
+"lines up with the menu."
+msgstr ""
+
+#: inc/customizer.php:21
+msgid ""
+"You can set the primary colours for most elements in this theme from here."
+msgstr ""
+
+#: inc/customizer.php:23
+msgid ""
+"Background may only be visible when using the boxed layout or on short pages."
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Your Logo"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Logo Margins"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Page Width"
+msgstr ""
+
+#: inc/customizer.php:77 inc/customizer.php:585
+msgid "Full Screen"
+msgstr ""
+
+#: inc/customizer.php:78 inc/customizer.php:586
+msgid "1600px Wide"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:93 inc/customizer.php:600
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:94 inc/customizer.php:601
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:109 inc/customizer.php:614
+msgid "Small Featured Image"
+msgstr ""
+
+#: inc/customizer.php:110 inc/customizer.php:615
+msgid "Big Featured Image"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Content or Excerpt"
+msgstr ""
+
+#: inc/customizer.php:125 inc/customizer.php:629
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:126 inc/customizer.php:630
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Hide Edit Links"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Hide the Post Footer Info"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Hide the Post Footer Nav"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Footer Widgets Background"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Footer Widgets Text"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Footer Widgets List Borders"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Footer Widget Titles"
+msgstr ""
+
+#: inc/customizer.php:254
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:278 inc/customizer.php:290
+msgid "Link Colour"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Footer Widget Links"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Footer Menu Links"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Footer Menu Hover"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "Social Network Icons"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Social Network Icons Hover"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "Button Colour"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Button Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Button Hover Text"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Main Menu Links"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Main Menu Hover &amp; Active"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Submenu Top Border"
+msgstr ""
+
+#: inc/extras.php:70
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:159
+msgid "at"
+msgstr ""
+
+#: inc/extras.php:169
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Page Continued:"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgctxt ""
+msgid "Previous Article: %link"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgctxt ""
+msgid "Next Article: %link"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Photo Navigation"
+msgstr ""
+
+#: inc/template-tags.php:153
+#, php-format
+msgctxt "post date"
+msgid "Published on %s"
+msgstr ""
+
+#: inc/template-tags.php:158
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:177
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:183
+#, php-format
+msgid "Tagged With: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:209
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:211
+#, php-format
+msgid "Articles Tagged with %s"
+msgstr ""
+
+#: inc/template-tags.php:213
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: inc/template-tags.php:215
+#, php-format
+msgid "Articles for %s "
+msgstr ""
+
+#: inc/template-tags.php:215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:217 inc/template-tags.php:219
+#, php-format
+msgid "Articles for %s"
+msgstr ""
+
+#: inc/template-tags.php:217
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:223
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:225
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:229
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:231
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:233
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:235
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:237
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:239
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:243
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/widgets.php:18
+msgid "This is the blog right sidebar column."
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/widgets.php:27
+msgid "This is the blog left sidebar column."
+msgstr ""
+
+#: inc/widgets.php:34
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/widgets.php:36
+msgid "This is the page right sidebar column"
+msgstr ""
+
+#: inc/widgets.php:43
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/widgets.php:45
+msgid "This is the page left sidebar column"
+msgstr ""
+
+#: inc/widgets.php:52
+msgid "Banner"
+msgstr ""
+
+#: inc/widgets.php:54
+msgid "Page banner position."
+msgstr ""
+
+#: inc/widgets.php:61
+msgid "Top 1"
+msgstr ""
+
+#: inc/widgets.php:63
+msgid "This is the 1st top widget position located just below the banner area."
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "Top 2"
+msgstr ""
+
+#: inc/widgets.php:72
+msgid "This is the 2nd top widget position located just below the banner area."
+msgstr ""
+
+#: inc/widgets.php:79
+msgid "Top 3"
+msgstr ""
+
+#: inc/widgets.php:81
+msgid "This is the 3rd top widget position located just below the banner area."
+msgstr ""
+
+#: inc/widgets.php:88
+msgid "Top 4"
+msgstr ""
+
+#: inc/widgets.php:90
+msgid "This is the 4th top widget position located just below the banner area."
+msgstr ""
+
+#: inc/widgets.php:97
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/widgets.php:99
+msgid ""
+"This is the first featured bottom widget position located just below the "
+"main content."
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/widgets.php:108
+msgid ""
+"This is the second featured bottom widget position located just below the "
+"main content."
+msgstr ""
+
+#: inc/widgets.php:115
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/widgets.php:117
+msgid ""
+"This is the third featured bottom widget position located just below the "
+"main content."
+msgstr ""
+
+#: inc/widgets.php:124
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/widgets.php:126
+msgid ""
+"This is the fourth featured bottom widget position located just below the "
+"main content."
+msgstr ""
+
+#: inc/widgets.php:133
+msgid "Footer 1"
+msgstr ""
+
+#: inc/widgets.php:135
+msgid ""
+"This is the first bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/widgets.php:142
+msgid "Footer 2"
+msgstr ""
+
+#: inc/widgets.php:144
+msgid ""
+"This is the second bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/widgets.php:151
+msgid "Footer 3"
+msgstr ""
+
+#: inc/widgets.php:153
+msgid ""
+"This is the third bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: inc/widgets.php:160
+msgid "Footer 4"
+msgstr ""
+
+#: inc/widgets.php:162
+msgid ""
+"This is the fourth bottom widget position located in a coloured background "
+"area just above the footer."
+msgstr ""
+
+#: loop.php:96
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/post-footer.php:8
+msgid "Edit this Post"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "Next post link"
+#~ msgid ""
+#~ msgstr ""
+#~ "Project-Id-Version: Shaped Pixels Pro\n"
+#~ "POT-Creation-Date: 2015-01-26 19:29-0800\n"
+#~ "PO-Revision-Date: 2015-01-26 19:29-0800\n"
+#~ "Last-Translator: \n"
+#~ "Language-Team: \n"
+#~ "MIME-Version: 1.0\n"
+#~ "Content-Type: text/plain; charset=UTF-8\n"
+#~ "Content-Transfer-Encoding: 8bit\n"
+#~ "X-Generator: Poedit 1.6.9\n"
+#~ "X-Poedit-Basepath: ..\n"
+#~ "X-Poedit-SourceCharset: UTF-8\n"
+#~ "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+#~ "esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+#~ "esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+#~ "X-Poedit-SearchPath-0: .\n"

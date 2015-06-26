@@ -1,0 +1,12 @@
+This theme is licensed under the GPL version 3
+
+License URI: http://www.gnu.org/copyleft/gpl.html
+
+
+
+*** Images Used ***
+
+All and any images used within this theme are created by me (Andre Jutras)
+of Shaped Pixels. They are also GPL, so feel free to use them as you wish.
+
+Images were created in Photoshop CC.

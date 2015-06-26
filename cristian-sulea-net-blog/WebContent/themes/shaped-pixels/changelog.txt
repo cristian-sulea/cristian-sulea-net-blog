@@ -1,0 +1,43 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+-------------------------------------------------------
+    CHANGELOG Legend
+-------------------------------------------------------
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+
+
+[February 1, 2015] Version 1.0.0 Shaped Pixels <www.shapedpixels.com>
+
+[] New theme is released
+
+-----
+
+[March 2, 2015] Version 1.0.1 Shaped Pixels <www.shapedpixels.com>
+
+[*] Renamed the language .pot file to reflect the theme's text domain
+[!] Fixed the default values in the Customizer.php file for Featured Image and Page Width
+[+] Added a license.txt file with a link to the GPL license as well theme image license details
+[*] Changed the enqueue for Google Fonts URL in functions.php
+[*] Changed the function prefix name from shapedpixels to shaped_pixels (all files)
+[*] Adjusted the width of the content container to be a bit smaller (it was too wide)
+
+----
+
+[March 2, 2015] Version 1.0.2 Shaped Pixels <www.shapedpixels.com>
+
+[*] Updated the Theme URL in the style.css as well added a link to the readme.txt for the Demo site
